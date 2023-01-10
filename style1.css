@@ -415,6 +415,21 @@ nav{
  .footin .link{
     width: 100%;
  }
+.posttext{
+       font-size: 20px;
+        }
+  .left1 h1{
+     margin-top: 30%;
+   
+     font-size: 20px;
     }
+    .contact p{
+        font-size:10px;
+    }
+        .contact li{
+            font-size:15px;
+        }
+}
+
 
     
